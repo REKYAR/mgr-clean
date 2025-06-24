@@ -1,0 +1,5 @@
+dataset,experiment_type,accuracy,macrof1
+ohio,No Constraints,0.8753092770877734,0.5459732719273038
+ohio,All Constraints,0.8762238390370969,0.547362462206089
+ohio,Positive Constraints Only,0.8767219486702106,0.5480306636412147
+ohio,Negative Constraints Only,0.8772608869617762,0.5479236637451085

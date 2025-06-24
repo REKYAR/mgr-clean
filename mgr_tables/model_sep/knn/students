@@ -1,0 +1,4 @@
+Model,accuracy,f1,cohenkappa
+No Constraints,0.949,0.455,0.431
+Distance(+),0.95,0.465,0.442
+Gender(-),0.949,0.462,0.438

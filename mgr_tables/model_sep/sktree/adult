@@ -1,0 +1,7 @@
+Model,accuracy,f1,cohenkappa
+No Constraints,0.784,0.553,0.41
+All Constraints,0.784,0.55,0.408
+Negative Constraints Only,0.781,0.548,0.403
+Positive Constraints Only,0.783,0.551,0.408
+Positive Constraint on hours-per-week,0.783,0.553,0.41
+Positive Constraint on education-num,0.782,0.549,0.405

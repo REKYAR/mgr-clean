@@ -1,0 +1,11 @@
+Model,accuracy,f1,cohenkappa
+No Constraints,0.753,0.735,0.504
+All Constraints,0.747,0.727,0.492
+Positive Constraint on car_ownership,0.746,0.727,0.491
+Positive Constraints Only,0.747,0.727,0.492
+Negative Constraints Only,0.746,0.727,0.491
+Negative Constraint on car_ownership,0.746,0.727,0.491
+Positive Constraint on distance,0.753,0.735,0.504
+Positive Constraint on driving_license,0.753,0.735,0.504
+Negative Constraint on driving_license,0.753,0.735,0.504
+Negative Constraint on pt_interchanges,0.753,0.735,0.504

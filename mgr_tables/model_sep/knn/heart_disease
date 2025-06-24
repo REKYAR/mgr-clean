@@ -1,0 +1,5 @@
+Model,accuracy,f1,cohenkappa
+thalach(+),0.801,0.769,0.596
+age(-),0.795,0.761,0.583
+age+chol(-),0.801,0.769,0.596
+No Constraints,0.798,0.766,0.59

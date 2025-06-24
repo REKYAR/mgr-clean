@@ -1,0 +1,5 @@
+Model,accuracy,f1,cohenkappa
+No Constraints,0.599,0.373,0.181
+Positive Constraint on Age,0.601,0.384,0.186
+Negative Constraint on Density,0.593,0.365,0.169
+All Constraints,0.592,0.369,0.167

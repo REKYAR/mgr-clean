@@ -1,0 +1,6 @@
+Model,accuracy,f1,cohenkappa
+Positive Constraint on word_freq_free,0.65,0.693,0.366
+Negative Constraint on word_freq_george,0.611,0.67,0.306
+Negative Constraint on word_freq_hp,0.916,0.903,0.83
+All Constraints,0.655,0.695,0.373
+No Constraints,0.524,0.624,0.178

@@ -1,0 +1,15 @@
+dataset,full_name,online_accuracy,online_f1,online_accuracy_nc,online_f1_nc,online_accuracy_averaged,online_f1_averaged
+adult,arf_basic_newdata_fxs-All Constraints-adult,0.837,0.576,0.83,0.541,0.833,0.559
+air_quality,arf_basic_newdata_fxs-All Constraints-air_quality,0.906,0.906,0.884,0.889,0.893,0.896
+flights,arf_basic_newdata_fxs-Positive Constraints Only-flights,0.727,0.72,0.724,0.719,0.723,0.717
+heart_disease,arf_basic_newdata_fxs-Negative Constraints Only-heart_disease,0.714,0.65,0.707,0.648,0.709,0.648
+hepatitis,arf_basic_newdata_fxs-All Constraints-hepatitis,0.825,0.0,0.825,0.0,0.825,0.0
+iris,arf_basic_newdata_fxs-All Constraints-iris,0.7,0.593,0.7,0.593,0.7,0.593
+london,arf_basic_newdata_fxs-Negative Constraint on distance-london,0.786,0.775,0.779,0.768,0.782,0.771
+mammographic_mass,arf_basic_newdata_fxs-Positive Constraints Only-mammographic_mass,0.808,0.796,0.811,0.803,0.807,0.799
+monk_s_problems,arf_basic_newdata_fxs-All Constraints-monk_s_problems,0.702,0.678,0.702,0.678,0.7,0.674
+ohio,arf_basic_newdata_fxs-Negative Constraints Only-ohio,0.877,0.921,0.875,0.92,0.876,0.92
+spambase,arf_basic_newdata_fxs-All Constraints-spambase,0.989,0.987,0.989,0.987,0.989,0.987
+students,arf_basic_newdata_fxs-Negative Constraint on Grade-students,0.96,0.624,0.955,0.551,0.955,0.536
+thoracic_surgery_data,arf_basic_newdata_fxs-All Constraints-thoracic_surgery_data,0.849,0.0,0.849,0.0,0.849,0.0
+wine,arf_basic_newdata_fxs-Positive Constraints Only-wine,0.736,0.672,0.697,0.612,0.708,0.617

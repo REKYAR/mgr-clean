@@ -1,0 +1,6 @@
+Model,accuracy,f1,cohenkappa
+No Constraints,0.712,0.711,0.423
+Positive Constraint on Distance,0.71,0.71,0.42
+Positive Constraint on Origin_Latitude,0.708,0.706,0.415
+Positive Constraint on Month,0.712,0.711,0.423
+Negative Constraint on Origin_Latitude,0.712,0.711,0.424

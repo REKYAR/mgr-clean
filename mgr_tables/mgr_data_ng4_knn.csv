@@ -1,0 +1,15 @@
+dataset,full_name,online_accuracy,online_f1,online_accuracy_nc,online_f1_nc,online_accuracy_averaged,online_f1_averaged
+adult,balanced_results_multi_newdata_oh_fxs-education-num+hours-per-week(+)-adult,0.75,0.382,0.748,0.377,0.749,0.378
+air_quality,balanced_results_multi_newdata_oh_fxs-O3(-)-air_quality,0.932,0.932,0.927,0.927,0.93,0.93
+flights,balanced_results_multi_newdata_oh_fxs-Distance(+)-flights,0.7,0.702,0.7,0.702,0.699,0.702
+heart_disease,balanced_results_multi_newdata_oh_fxs-chol(-)-heart_disease,0.805,0.773,0.798,0.766,0.8,0.767
+hepatitis,balanced_results_multi_newdata_oh_fxs-Age(+)-hepatitis,0.85,0.143,0.85,0.143,0.85,0.143
+iris,balanced_results_multi_newdata_oh_fxs-petal length(+)-iris,0.907,0.868,0.907,0.868,0.907,0.868
+london,balanced_results_multi_newdata_oh_fxs-car_ownership(+)-london,0.776,0.759,0.776,0.758,0.775,0.758
+mammographic_mass,balanced_results_multi_newdata_oh_fxs-Density(-)-mammographic_mass,0.766,0.765,0.766,0.765,0.764,0.763
+monk_s_problems,balanced_results_multi_newdata_oh_fxs-a1(+)-monk_s_problems,0.742,0.738,0.742,0.738,0.742,0.738
+ohio,balanced_results_multi_newdata_oh_fxs-workers(+)-ohio,0.8,0.87,0.8,0.87,0.8,0.87
+spambase,balanced_results_multi_newdata_oh_fxs-word_freq_hp+word_freq_george(-)-spambase,0.995,0.993,0.994,0.993,0.994,0.993
+students,balanced_results_multi_newdata_oh_fxs-Distance(+)-students,0.95,0.465,0.949,0.455,0.949,0.456
+thoracic_surgery_data,balanced_results_multi_newdata_oh_fxs-Age(-)-thoracic_surgery_data,0.847,0.0,0.84,0.0,0.843,0.0
+wine,balanced_results_multi_newdata_oh_fxs-Alcohol(+)-wine,0.843,0.794,0.843,0.794,0.843,0.794

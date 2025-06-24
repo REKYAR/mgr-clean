@@ -1,0 +1,5 @@
+Model,accuracy,f1,cohenkappa
+No Constraints,0.884,0.889,0.768
+Positive Constraint on NOx,0.906,0.906,0.812
+Negative Constraint on O3,0.884,0.889,0.768
+All Constraints,0.906,0.906,0.812

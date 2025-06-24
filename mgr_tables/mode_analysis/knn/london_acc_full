@@ -1,0 +1,11 @@
+Model,accuracy,f1,cohenkappa
+car_ownership(+),0.776,0.759,0.551
+distance(+),0.775,0.758,0.549
+driving_license(+),0.775,0.758,0.55
+pt_interchanges(+),0.775,0.758,0.549
+car_ownership(-),0.776,0.758,0.55
+distance(-),0.776,0.758,0.55
+driving_license(-),0.775,0.758,0.55
+pt_interchanges(-),0.776,0.759,0.55
+car_ownership+distance+driving_license+pt_interchanges(+),0.775,0.758,0.549
+car_ownership+distance+driving_license+pt_interchanges(-),0.775,0.758,0.55

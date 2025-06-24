@@ -1,0 +1,15 @@
+dataset,full_name,online_accuracy,online_f1,online_accuracy_nc,online_f1_nc,online_accuracy_averaged,online_f1_averaged
+adult,sktree_basic_newdata_oh_fxs-Positive Constraints Only-adult,0.785,0.555,0.787,0.56,0.784,0.554
+air_quality,sktree_basic_newdata_oh_fxs-All Constraints-air_quality,0.682,0.531,0.674,0.516,0.673,0.52
+flights,sktree_basic_newdata_oh_fxs-Negative Constraint on Origin_Latitude-flights,0.712,0.711,0.712,0.711,0.71,0.71
+heart_disease,sktree_basic_newdata_oh_fxs-All Constraints-heart_disease,0.539,0.0,0.539,0.0,0.539,0.0
+hepatitis,sktree_basic_newdata_oh_fxs-All Constraints-hepatitis,0.838,0.0,0.838,0.0,0.838,0.0
+iris,sktree_basic_newdata_oh_fxs-All Constraints-iris,0.333,0.0,0.333,0.0,0.333,0.0
+london,sktree_basic_newdata_oh_fxs-Positive Constraint on pt_interchanges-london,0.661,0.604,0.659,0.604,0.656,0.599
+mammographic_mass,sktree_basic_newdata_oh_fxs-Positive Constraint on Age-mammographic_mass,0.601,0.384,0.599,0.373,0.596,0.372
+monk_s_problems,sktree_basic_newdata_oh_fxs-All Constraints-monk_s_problems,0.5,0.0,0.5,0.0,0.5,0.0
+ohio,sktree_basic_newdata_oh_fxs-Positive Constraint on workers-ohio,0.851,0.896,0.849,0.895,0.85,0.896
+spambase,sktree_basic_newdata_oh_fxs-Positive Constraints Only-spambase,0.871,0.816,0.869,0.813,0.87,0.814
+students,sktree_basic_newdata_oh_fxs-Negative Constraint on Gender-students,0.945,0.557,0.941,0.516,0.943,0.537
+thoracic_surgery_data,sktree_basic_newdata_oh_fxs-All Constraints-thoracic_surgery_data,0.851,0.0,0.851,0.0,0.851,0.0
+wine,sktree_basic_newdata_oh_fxs-All Constraints-wine,0.331,0.0,0.331,0.0,0.331,0.0

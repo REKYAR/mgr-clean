@@ -1,0 +1,10 @@
+Model,accuracy,f1,cohenkappa
+No Constraints,0.875,0.92,0.644
+All Constraints,0.876,0.92,0.648
+Positive Constraints Only,0.877,0.921,0.649
+Negative Constraints Only,0.877,0.921,0.65
+Positive Constraint on drivers,0.876,0.92,0.65
+Positive Constraint on workers,0.877,0.921,0.648
+Positive Constraint on guest,0.876,0.921,0.646
+Negative Constraint on income,0.874,0.919,0.644
+Negative Constraint on students,0.877,0.921,0.648
